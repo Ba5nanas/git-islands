@@ -1,0 +1,75 @@
+body {
+  background:#f4f4f4;
+}
+.container {
+  max-width: 1170px;
+  width: 100%;
+  margin:auto;
+}
+.login-form {
+  height: 100%;
+  min-height: 400px;
+  margin:auto;
+  margin-top: calc(50% - 400px);
+
+
+  max-width: 325px;
+
+}
+.form-submit {
+  padding: 40px 40px;
+  background:#fff;
+  border-radius: 10px;
+}
+.big-size {
+  font-size: 52px;
+}
+.color {
+  color:#ed2553;
+}
+h1 {
+  font-size: 32px;
+  padding: 40px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 10px;
+}
+label {
+  margin: 20px 0;
+  display: block;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+  color:#ed2553;
+}
+input {
+  background:transparent;
+  border:1px solid transparent;
+  border-bottom:1px solid #ccc;
+  padding:10px 0px;
+  width: 100%;
+  display: block;
+  font-size: 18px;
+}
+
+input[type="submit"] {
+  background:transparent;
+  border:3px solid #ccc;
+  padding:10px 10px;
+  width: 100%;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background:#ed2553;
+  border:3px solid #ed2553;
+  color:#fff;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+transition: background-color 100s ease-in-out 0s;
+}

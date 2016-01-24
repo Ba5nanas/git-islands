@@ -1,0 +1,6 @@
+# BEGIN WordPress
+<Files ~ "\.json$">
+    Order allow,deny
+    Deny from all
+</Files>
+# END WordPress

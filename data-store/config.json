@@ -1,0 +1,25 @@
+{
+  "server": {
+    "host":"localhost",
+    "port":"3000",
+    "path":"Islands"
+  },
+  "mysql": {
+    "host":"localhost",
+    "db":"botdb",
+    "user":"root",
+    "pass":"root",
+    "port":"3306",
+    "user_db": {
+      "fields": [{"field":"username"},{"field":"password"}],
+      "table": "tb_user",
+      "user_field": "username",
+      "pass_field": "password"
+    }
+  },
+  "mongodb": {
+    "db":""
+  },
+  "driver":"mysql",
+  "key_server":"fc5e038d38a57032085441e7fe7010b0"
+}

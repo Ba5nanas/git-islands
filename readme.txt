@@ -4,6 +4,6 @@ visit Demo : http://www.ba5nanas.com/islands/islands-login.php
 user : test
 pass : 1234
 ======================================================================
-require lib npm
+require npm 
 - mysql
 - key-del

@@ -8,7 +8,7 @@ require npm
 - mysql
 - key-del
 ======================================================================
-speed this framework equal browser does direct request http file html.
+speed this framework near browser does direct request http file html.
 response 100-300 ms in country hosting.
 
 ![alt tag](http://i.imgur.com/3kb27mU.jpg)

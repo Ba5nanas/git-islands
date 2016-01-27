@@ -7,3 +7,6 @@ pass : 1234
 require npm 
 - mysql
 - key-del
+======================================================================
+speed this framework equal browser does direct request http file html.
+response 100-300 ms in country hosting.

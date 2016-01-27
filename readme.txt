@@ -10,3 +10,5 @@ require npm
 ======================================================================
 speed this framework equal browser does direct request http file html.
 response 100-300 ms in country hosting.
+
+![alt tag](http://url/to/img.png)
